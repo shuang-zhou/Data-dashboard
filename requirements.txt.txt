@@ -1,0 +1,9 @@
+matplotlib
+streamlit
+numpy
+pandas
+seaborn
+plotly
+matplotlib
+cufflinks
+chart_studio
